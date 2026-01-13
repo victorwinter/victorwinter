@@ -1,4 +1,4 @@
-# Hi 👋! My name is Victor Winter and I'm an Operations Analyst at Blip.
+# Hi 👋! My name is Victor Winter.
 
 <br>
 
