@@ -1,5 +1,3 @@
-# Hi 👋! My name is Victor Winter.
-
 <br>
 
 <div align="center">
