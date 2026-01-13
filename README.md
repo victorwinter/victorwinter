@@ -3,15 +3,6 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorwinter&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Victor's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorwinter&layout=compact&langs_count=7&theme=dark&hide_border=true" alt="Victor's Top Languages"/>
-  </a>
-</div>
-
-<div align="center">
   <h3 align="center">Let's connect!</h3>
   <p align="center">
     <a href="https://www.linkedin.com/in/victor-winter-648a08b8/" target="_blank">
