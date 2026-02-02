@@ -1,5 +1,13 @@
 <br>
-
+<div align="center">
+  <h2>Hi, I'm Victor 👋</h2>
+  <p>
+    DevOps / Operations Analyst with hands-on experience in Linux, Docker, Kubernetes and AWS.<br>
+    Focused on reliability, automation and infrastructure as code.<br>
+    Currently building labs and projects to strengthen DevOps fundamentals.
+  </p>
+</div>
+<br>
 <div align="center">
   <h3 align="center">Let's connect!</h3>
   <p align="center">
