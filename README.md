@@ -2,7 +2,7 @@
 <div align="center">
   <h2>Hi, I'm Victor 👋</h2>
   <p>
-    DevOps / Operations Analyst with hands-on experience in Linux, Docker, Kubernetes and AWS.<br>
+    DevOps / Operations Analyst with hands-on experience in Linux, Docker, Kubernetes and Azure/AWS.<br>
     Focused on reliability, automation and infrastructure as code.<br>
     Currently building labs and projects to strengthen DevOps fundamentals.
   </p>
